@@ -1,0 +1,24 @@
+
+/* navigation bar*/ 
+nav {
+    float: right;
+    margin: 1px;
+    padding: 10px;
+
+}
+nav> ul 
+{
+list-style: none;
+
+}
+
+.nav-bar {
+    text-decoration: none;
+}
+
+/*header*/
+h1 {
+color: #04395e;
+}
+
+/*footer socialmedia links*
