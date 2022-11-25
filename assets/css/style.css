@@ -19,6 +19,15 @@ list-style: none;
 /*header*/
 h1 {
 color: #04395e;
+background-color: #ffeaae;
 }
 
-/*footer socialmedia links*
+/*footer socialmedia links*/
+
+.social-networks {
+    color:#04395e;
+    background-color: #ffeaae;
+}
+
+
+
