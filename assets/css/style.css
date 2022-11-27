@@ -17,16 +17,44 @@ list-style: none;
 }
 
 /*header*/
-h1 {
-color: #04395e;
-background-color: #ffeaae;
+
+.header {
+    padding: 60px; 
+    text-align: center; 
+    background: url('../images/headerphoto_alexander.jpg');
+    color: #F7ECE9;
+    font-size: 30px;
+    height: 1200 px; 
+    width: 100%;
+    background-size: cover;
+   
+    
+
+    
 }
 
+.header > p 
+{
+    text-align: center;
+    font-size: 15px; 
+    float: left;
+   
+}
 /*footer socialmedia links*/
 
 .social-networks {
     color:#04395e;
-    background-color: #ffeaae;
+    background-color: #F7ECE9;
+    position: absolute;
+    bottom: 0; 
+    width: 100%; 
+    height: 100px; 
+    list-style: none;
+    text-align: center; 
+    
+ 
+
+
 }
 
 
