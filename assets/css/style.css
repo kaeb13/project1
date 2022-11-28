@@ -9,6 +9,7 @@ nav {
 nav> ul 
 {
 list-style: none;
+color: #F8F5F4; 
 
 }
 
@@ -22,29 +23,43 @@ list-style: none;
     padding: 60px; 
     text-align: center; 
     background: url('../images/headerphoto_alexander.jpg');
-    color: #F7ECE9;
+    color: #F8F5F4; 
     font-size: 30px;
-    height: 1200 px; 
+    height: 1200px; 
     width: 100%;
     background-size: cover;
+    font-family: dm serif display , sans-serif;
+   
+    }
+
+
+
+.fan-club-header-circle {
+    background: #5D5E5F;
+    border-radius: 50%;
+    width: 110px;
+    height: 110px;
+    
+    
+    }
+
+ #text-of-circle-header {
+   font-size: 25px; 
+   
    
     
-
     
+
+   
+
 }
 
-.header > p 
-{
-    text-align: center;
-    font-size: 15px; 
-    float: left;
-   
-}
-/*footer socialmedia links*/
+
+/*footer socialmedia links */ 
 
 .social-networks {
     color:#04395e;
-    background-color: #F7ECE9;
+    color: #F8F5F4; 
     position: absolute;
     bottom: 0; 
     width: 100%; 
@@ -52,16 +67,26 @@ list-style: none;
     list-style: none;
     text-align: center; 
     
+    
  
 
 
 }
 
-/*Home page*/
 
+/*Home page*/
+ 
 body {
     background-color: #F7ECE9;
+    color: #F8F5F4; 
+    background-color: #3C3431;
+
 }
 
+body h2
+{
+text-align: center;
+background-color: #3C3431;
+}
 
 
